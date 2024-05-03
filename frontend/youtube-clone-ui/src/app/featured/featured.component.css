@@ -1,0 +1,26 @@
+.vid:hover {
+  cursor: pointer;
+}
+
+.search{
+  margin-left: 20rem;
+  margin-bottom: 2rem;
+}
+
+input, button{
+  padding: 0.8rem;
+  border-radius: 5px;
+}
+
+input{
+  width: 38rem;
+}
+
+button{
+  background: #FDDA0D;
+}
+
+button:hover{
+  background-color: #FFBF00;
+  cursor: pointer;
+}

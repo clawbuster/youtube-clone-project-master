@@ -1,0 +1,15 @@
+.example-card {
+  max-width: 400px;
+  width: 250px;
+}
+
+.example-header-image {
+  background-image: url('https://i1.sndcdn.com/artworks-000166027483-dbxttz-t500x500.jpg');
+  background-size: cover;
+}
+
+img{
+  width: 20rem;
+  height: 20rem;
+
+}

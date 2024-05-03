@@ -1,0 +1,13 @@
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+mat-toolbar{
+  color: red;
+  background-color: red;
+}
+
+button:hover{
+  background-color: #FFBF00;
+  cursor: pointer;
+}
